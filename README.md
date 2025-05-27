@@ -74,8 +74,8 @@ This report is structured into **4 interactive pages**, each designed to answer 
 ## 📬 Contact
 
 **Vedant Kale**  
-📧 Email: [vedant.kale22@pccoepune.org]  
-🌐 Portfolio: [vedantkale.vercel.app]  
+📧 Email: vedant.kale22@pccoepune.org
+🌐 Portfolio: vedantkale.vercel.app
 🔗 [LinkedIn](#) • [GitHub](#)
 
 ---
