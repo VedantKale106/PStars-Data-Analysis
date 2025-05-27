@@ -27,7 +27,7 @@ This report is structured into **4 interactive pages**, each designed to answer 
 
 ---
 
-## 📂 Dataset Columns (Examples)
+## 📂 Dataset Columns 
 - `Age`, `Gender`, `Eye Color`, `Hair Color`, `Weight`, `Height`
 - `Career Status`, `Relationship Status`, `Fake Boobs`
 - `Rank`, `Views`, `Videos`
